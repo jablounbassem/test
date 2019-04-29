@@ -1,0 +1,6 @@
+services:
+  odoo_connector_Service:
+    class: Odoo\ConnectorBundle\Service\OdooService
+    #public: true
+    arguments: [ "@service_container","%db_odoo%","%url_odoo%","%username_odoo%","%password_odoo%"  ]
+
