@@ -1,6 +1,6 @@
 {
-    "name": "sofia-holding/odoo-connector-bundle",
-    "description": "Odoo symfony Connector",
+    "name": "bassem/odoo-bundle",
+    "description": "Odoo  Connector",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
